@@ -1,5 +1,4 @@
 # Site settings
-title: The Blog
 email: ben@8thlight.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
