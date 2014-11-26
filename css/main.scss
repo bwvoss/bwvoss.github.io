@@ -3,11 +3,7 @@
 ---
 @charset "utf-8";
 
-
-
-$custom-font-family: 'Inconsolata';
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$custom-font-family: "PT Serif", serif;//'Inconsolata';
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -25,8 +21,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
-
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
@@ -39,8 +33,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

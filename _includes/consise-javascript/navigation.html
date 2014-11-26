@@ -1,0 +1,15 @@
+<select id="navigation">
+  <option value="/consise-javascript/">Up and Running</option>
+  <option value="/consise-javascript/context/">Context</option>
+  <option value="/consise-javascript/inheritance/">Prototypal Inheritance and Hoisting</option>
+</select>
+
+<script type="text/javascript">
+  var element = document.getElementById('navigation');
+      element.value = window.location.pathname;
+
+  element.onchange = function() {
+    window.location.pathname =  this.value;
+  }
+</script>
+

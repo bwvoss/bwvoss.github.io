@@ -1,8 +1,42 @@
-/**
- * Site header
- */
+/**********************************
+Navigation
+**********************************/
+
+nav li a {
+  color: #999;
+  font-size: 1rem;
+  font-weight: 600;
+  display: block;
+  -moz-transition: color 0.3s ease;
+  -ms-transition: color 0.3s ease;
+  -webkit-transition: color 0.3s ease;
+  transition: color 0.3s ease;
+  padding: 0.8rem 0;
+}
+
+nav .nav-list {list-style: none;}
+nav li.current a { color: #333; }
+
+nav li a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+/**********************************
+List
+**********************************/
+
+.normalized-unordered-list {
+ list-style: none;
+ margin: 0;
+ padding: 1em 0;
+}
+
+/**********************************
+Header
+**********************************/
+
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -91,9 +125,13 @@
 /**
  * Site footer
  */
-.site-footer {
+
+
+.site-footer,
+.push {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    height: 155px; /* .push must be the same height as .site-footer */
 }
 
 .footer-heading {
@@ -164,7 +202,6 @@
 .page-content {
     padding: $spacing-unit 0;
     margin: auto;
-    width: 50%;
 }
 
 .page-heading {
