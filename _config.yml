@@ -1,10 +1,12 @@
 # Site settings
 email: bwvoss@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: benvoss
-github_username:  bwvoss
+# url: "http://bwvoss.github.io" # the base hostname & protocol for your site
+
+author:
+  name: Ben Voss
+  url:  ""
+  email: bwvoss@gmail.com
 
 # Build settings
 markdown: kramdown
