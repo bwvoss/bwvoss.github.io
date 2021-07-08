@@ -4,7 +4,7 @@
 title:      Personal Site
 tagline:    'A Jekyll theme'
 description: 'A description'
-url:         http://bwvoss.github.io
+url:         bwvoss.github.io
 baseurl:     ''
 paginate:    5
 permalink:   pretty
