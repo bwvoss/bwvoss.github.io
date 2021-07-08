@@ -1,12 +1,25 @@
 # Site settings
-email: bwvoss@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://bwvoss.github.io" # the base hostname & protocol for your site
 
+# Setup
+title:      Personal Site
+tagline:    'A Jekyll theme'
+description: 'A description'
+url:         http://bwvoss.github.io
+baseurl:     ''
+paginate:    5
+permalink:   pretty
+
+# About/contact
 author:
   name: Ben Voss
   url:  ""
   email: bwvoss@gmail.com
 
-# Build settings
-markdown: kramdown
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+# version:             1.1.0
+# google_analytics_id: UA-146052-15
+
