@@ -3,7 +3,7 @@
 # Setup
 title:      bwvoss.github.io
 tagline:    ''
-description: ''
+description: 'A blog generally about software engineering and technical product management'
 url:         https://bwvoss.github.io
 baseurl:     ''
 paginate:    5
