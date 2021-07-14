@@ -13,7 +13,7 @@ I get asked this question a lot by newer TPMs, often coming from an engineering 
 
 >As a PM, how well do I have to know my product's domain?
 
-At this point, it just kinda seems obvious, doesn't it?  You have to know it _really really_ well. TPMs often are engineers first, so it's difficult for us to think of ourselves as now as product managers first, especially when we were just building software in the domain we now manage products within. However, the complexity in this problem is rooted in that as an engineer, technical == writing code.  But, as a PM being technical == the ability to make better economic trade-offs for the benefit of the users and investors ("investor" may simply be your department allocating you some budget).
+At this point, it just kinda seems obvious, doesn't it?  You have to know it _really really_ well. TPMs often are engineers first, so it's difficult for us to think of ourselves now as product managers first, especially when we were just building software in the domain we now manage products within. However, the complexity in this problem is rooted in that as an engineer, technical == writing code.  But, as a PM being technical == the ability to make better economic trade-offs for the benefit of the users and investors ("investor" may simply be your department allocating you some budget).
 
 The best TPMs are deeply technical, often seen as SMEs -- subject matter experts -- within their technical domain.  They were often experienced engineers first.  Here are common behaviors I'd expect:
 
