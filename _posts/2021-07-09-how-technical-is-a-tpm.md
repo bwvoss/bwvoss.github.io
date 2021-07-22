@@ -26,3 +26,10 @@ The best TPMs are deeply technical, often seen as SMEs -- subject matter experts
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oh5oC98ztvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Highly technical (co-creator of GraphQL) and demonstrates using the tool.  He leads by showing it working.
+- Worked closely with product teams to define pain points they had, leading to GraphQL.  Identifying customer segments, pain points, prioritizing, then executing on that prioritization.  It's unclear if that would've been possible without closely working with the technical product teams.
+- Able to tie the pain point use cases from users to the larger concepts GraphQL uses or solves (eg: why static type systems were included, why declarative styles are good -- all to solve the pain of predictability and efficiency)
+- Showed deep knowledge of other related concepts, like what a graph actually is and how it relates to GraphQL
+
+I won't get all of it, there is much more.  But, I think this is a great example of a TPM.
