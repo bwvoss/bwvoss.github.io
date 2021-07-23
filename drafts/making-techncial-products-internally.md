@@ -3,6 +3,9 @@ layout: post
 title: INTERNAL ECONOMICS
 ---
 
+> As a TPM, I read lots of PM materials, but some of the concepts don't quite align.  For example, 
+
+
 It can be difficult transitioning PM ideas into building internal toolsets as products for engineers. For both TPMs and PMs, we are responsible for:
 
 - product vision
@@ -22,6 +25,8 @@ This is not a bad thing!  TPMs already have enough coordination overhead to hand
 - first, from a clear economic framework.  When a product is considered, or prototyped and tested, the key metrics that validate whether its the right economic decision are fairly clear.  Either its increasing ad clicks, or cart-to-orders, or something that is one step away from revenue.  When building tools for engineers, we are an extra step removed which makes apples-to-apples comparisons more difficult.
 
 - second, marketing and "customer" acquisition is different.
+
+Buyer vs. customer.   ie: salesforce is purchased by the VP of Sales, with General Counsel, etc.  Not the core user.  Building products internally is similar.  You have "buyers", or the VPs that allocate budget and direction, and the "users" or the engineers/builders.  What the buyers need to see may not be the same as the users.
 
 Most PM literature is written with a focus on selling a product externally to your company
 Overall: we are two steps removed from normal product management philosophy.  Pros and Cons of such.
