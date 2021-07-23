@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WHAT'S THE DIFFERENCE: VISION, STRATEGY, ROADMAP
+title: WHAT'S THE DIFFERENCE...VISION, STRATEGY, ROADMAP
 ---
 
 For every product manager, there are 3 artifacts that are in nearly every job description: product vision, strategy, and roadmap.  They build upon one another, where if the vision isn't right, the strategy likely won't be totally right, and then the roadmap will be even further from "right".  Then when it comes to iterative development of a product, the direction and metrics will be off and that introduces risk and waste into the development process.
