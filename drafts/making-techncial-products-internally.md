@@ -5,6 +5,12 @@ title: INTERNAL ECONOMICS
 
 > As a TPM building products for engineers internally, how different of a PM experience is it compared to selling products to external customers?
 
+- There really isn't any external, open market competition.  You are operating in a closed market.  In many ways a monopoly.
+
+- The "delight" factor isn't as important.  Blemishes are easier to accept because having fanatical customers, or being "sticky" isn't as important.  Where are your users going to go?
+
+- Finding your users is different.  You don't really find the "ideal" customer to be the core user/evangelist.  It is more common to be told who the people you have to serve is, and often they are not the ideal customers you'd choose.
+
 I receive this question quite a bit, and ask myself when I read PM literature and ideas.  TPMs building internal toolsets are in a slightly different world than a "normal" PM.  There are many of the same responsibilities, for example both TPMs and PMs are responsible for:
 
 - product vision
