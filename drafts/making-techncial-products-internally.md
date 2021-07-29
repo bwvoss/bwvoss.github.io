@@ -3,6 +3,10 @@ layout: post
 title: INTERNAL ECONOMICS
 ---
 
+Series on the differences in building products for internal company usage.
+
+OR: the company should provide the product vision.  The purpose of a product vision is to generate initial funding
+
 > As a TPM building products for engineers internally, how different of a PM experience is it compared to selling products to external customers?
 
 - There really isn't any external, open market competition.  You are operating in a closed market.  In many ways a monopoly.
