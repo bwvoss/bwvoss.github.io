@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QUOTE: STEVE JOBS ON OUTSIDE IN PRODUCT DEVELOPMENT
+title: STEVE JOBS ON OUTSIDE-IN PRODUCT DEVELOPMENT
 ---
 I came across this great quote from Steve Jobs while reading "Lean Product Development" to describe "outside-in" product development and to describe not necessarily relying on customers to provide you groundbreaking ideas, but to know the problems your customers have well before a vision or product direction can be established:
 
