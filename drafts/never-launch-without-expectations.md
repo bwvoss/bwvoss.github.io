@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NEVER LAUNCH INTO THE VOID
+title: NEVER LAUNCH WITHOUT ASSUMPTIONS TO TEST
 ---
 
 - when a product release occurs, what was your hypothesis about what would happen?
