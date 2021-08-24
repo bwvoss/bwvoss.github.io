@@ -2,8 +2,8 @@
 
 # Setup
 title:      bwvoss.github.io
-tagline:    ''
-description: 'A blog generally about software engineering and technical product management'
+tagline:    'Helping Engineers Think more like PMs and PMs Think more like Engineers'
+description: 'Personal thoughts about software engineering and technical product management'
 url:         https://bwvoss.github.io
 baseurl:     ''
 paginate:    5
